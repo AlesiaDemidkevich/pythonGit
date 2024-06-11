@@ -10,3 +10,9 @@ class Calculator:
     def print_last_res(self):
         print(self.last_res)
 
+    def division(self, n1, n2):
+        try:
+            self.last_res = n1/n2
+        except:
+            pass
+        return self.last_res
