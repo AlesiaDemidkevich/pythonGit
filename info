@@ -1,2 +1,6 @@
 1. Download repo:
     git clone https://github.com/AlesiaDemidkevich/pythonGit.git
+2. Заливка в удаленный репозиторий:
+- git add
+- git commit
+- git push
